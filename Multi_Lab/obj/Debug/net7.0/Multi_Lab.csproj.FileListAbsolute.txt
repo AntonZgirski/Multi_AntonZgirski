@@ -1,0 +1,15 @@
+D:\C#\TMS\Multi_Lab\Multi_Lab\bin\Debug\net7.0\Multi_Lab.exe
+D:\C#\TMS\Multi_Lab\Multi_Lab\bin\Debug\net7.0\Multi_Lab.deps.json
+D:\C#\TMS\Multi_Lab\Multi_Lab\bin\Debug\net7.0\Multi_Lab.runtimeconfig.json
+D:\C#\TMS\Multi_Lab\Multi_Lab\bin\Debug\net7.0\Multi_Lab.dll
+D:\C#\TMS\Multi_Lab\Multi_Lab\bin\Debug\net7.0\Multi_Lab.pdb
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.csproj.AssemblyReference.cache
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.AssemblyInfoInputs.cache
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.AssemblyInfo.cs
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.csproj.CoreCompileInputs.cache
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.dll
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\refint\Multi_Lab.dll
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.pdb
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\Multi_Lab.genruntimeconfig.cache
+D:\C#\TMS\Multi_Lab\Multi_Lab\obj\Debug\net7.0\ref\Multi_Lab.dll
